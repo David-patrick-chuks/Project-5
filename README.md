@@ -1,1 +1,1 @@
-# Project-5
+Please use only tailwind css for the corrections.
